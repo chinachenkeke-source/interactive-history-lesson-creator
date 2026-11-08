@@ -1,0 +1,14 @@
+.DS_Store
+work/
+outputs/
+*.html
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.mp3
+*.wav
+*.ogg
+*.mp4
+*.zip
